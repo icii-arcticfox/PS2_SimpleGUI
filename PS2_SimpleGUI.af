@@ -1,0 +1,23 @@
+{
+    "VSCodeWorkspaceFile": "PS2_SimpleGUI.code-workspace",
+    "ArcticFoxVersion": "0.9.1.117",
+    "ProjectName": "PS2_SimpleGUI",
+    "ProjectDescription": "",
+    "GeneratedLineIdentifier": "<>",
+    "VerilogFolders": [
+        "../../Code"
+    ],
+    "PathToVivadoProject": null,
+    "PathToVitisSrc": null,
+    "Tutorials": [],
+    "OpenFiles": [
+        "Code/Instructions.ipnyb",
+        "Code/Sandbox.py"
+    ],
+    "PythonAutomationNames": [
+        "Histogram"
+    ],
+    "PackagesAdded": [],
+    "SectionNames": null,
+    "SectionSubTitles": null
+}
